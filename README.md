@@ -2,7 +2,7 @@
 
 ## SYNOPSIS
 
-Here is a collection of propietary software license templates & examples for organizations that produces
+Here is a collection of proprietary software license templates & examples for organizations that produces
 proprietary software.
 
 But my suggestion is better **hiring a lawyer** instead of using this repository.
@@ -11,9 +11,9 @@ But my suggestion is better **hiring a lawyer** instead of using this repository
 
 There are some [simple templates](./Simple.md) you can use in your code directly.
 
-Also from a stackoverflow answer I found an [Adobe System's example](./Adobe-Confidential.md).
+In Adobe XMPCore 5.1.3 to 6.1.10 we can find [Adobe confidential](./Adobe-Confidential.md) that can be used as an example.
 
-There are a [license terms template](./License-Terms-Template.md) from PandaDoc.
+There is a [license terms template](./License-Terms-Template.md) from PandaDoc.
 
 Following are GitHub repos about proprietary software licenses:
 
